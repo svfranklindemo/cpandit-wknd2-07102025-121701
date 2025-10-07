@@ -1,16 +1,16 @@
 {
   "mappings": [
-    "/content/wknd-universal/language-masters/en:/",
-    "/content/wknd-universal/language-masters/en/:/",
-    "/content/wknd-universal/language-masters/en/:/en/",
-    "/content/wknd-universal/configuration:/.helix/config.json",
-    "/content/wknd-universal/metadata:/metadata.json",
-    "/content/wknd-universal/redirects:/redirects.json",
-    "/content/wknd-universal/placeholders:/placeholders.json",
-    "/content/wknd-universal.resource/language-masters/en/query-index.json:/en/query-index.json"
+    "/content/cpandit-cpandit-gmr-demo/language-masters/en:/",
+    "/content/cpandit-cpandit-gmr-demo/language-masters/en/:/",
+    "/content/cpandit-cpandit-gmr-demo/language-masters/en/:/en/",
+    "/content/cpandit-cpandit-gmr-demo/configuration:/.helix/config.json",
+    "/content/cpandit-cpandit-gmr-demo/metadata:/metadata.json",
+    "/content/cpandit-cpandit-gmr-demo/redirects:/redirects.json",
+    "/content/cpandit-cpandit-gmr-demo/placeholders:/placeholders.json",
+    "/content/cpandit-cpandit-gmr-demo.resource/language-masters/en/query-index.json:/en/query-index.json"
   ],
   "includes": [
-    "/content/wknd-universal/",
-    "/content/dam/wknd-universal/"
+    "/content/cpandit-cpandit-gmr-demo/",
+    "/content/dam/cpandit-cpandit-gmr-demo/"
   ]
 }
